@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Saini</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" width="400px" alt="coding" src="https://i.gifer.com/1kc1.gif"/>
+<img align="right" width="400px" alt="coding" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-saini-3698&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-saini-3698" /> </p>
 
