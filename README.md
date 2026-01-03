@@ -57,7 +57,7 @@
 <!-- Professional Card -->
 <table>
 <tr>
-<td align="center">
+<td align="left">
 
 ```javascript
 const praveen = {
