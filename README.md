@@ -21,6 +21,17 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<br>
+
+<!-- PORTFOLIO CTA - SUPER PROMINENT -->
+<p align="center">
+  <a href="https://praveen-saini-3698.github.io/" target="_blank">
+    <img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12&height=80&section=header&text=%F0%9F%8C%90%20VISIT%20MY%20PORTFOLIO&fontSize=32&fontColor=fff&animation=fadeIn" alt="Portfolio CTA"/>
+  </a>
+</p>
+
+<br>
+
 <!-- Social & Profile Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/praveen-kumar-saini-b30308161">
@@ -32,7 +43,7 @@
   <a href="mailto:myidpraveen90@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=praveen-saini-3698&color=dc2626&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=praveen-saini-3698&label=Profile%20views&color=dc2626&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <!-- Company Badge -->
@@ -534,6 +545,19 @@ const praveen = {
 <br>
 
 ## 🌟 Let's Build Something Amazing Together! 🌟
+
+<br>
+
+<!-- Portfolio CTA -->
+<p align="center">
+<a href="https://praveen-saini-3698.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/🎨_VISIT_MY_PORTFOLIO-Interactive_Website-DC2626?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<sub><b>✨ Explore my work, view awards & badges in stunning Marvel-themed design ✨</b></sub>
+</p>
 
 <br>
 
