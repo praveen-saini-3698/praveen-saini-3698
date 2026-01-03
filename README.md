@@ -213,9 +213,9 @@ const praveen = {
 <sub><b>Next-gen AI assistant</b></sub>
 </td>
 <td align="center" width="33%">
-<svg fill="none" height="40" viewBox="0 0 545 545" width="40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill="currentColor"><path d="m466.383 137.073-206.469-119.2034c-6.63-3.8287-14.811-3.8287-21.441 0l-206.4586 119.2034c-5.5734 3.218-9.0144 9.169-9.0144 15.615v240.375c0 6.436 3.441 12.397 9.0144 15.615l206.4686 119.203c6.63 3.829 14.811 3.829 21.441 0l206.468-119.203c5.574-3.218 9.015-9.17 9.015-15.615v-240.375c0-6.436-3.441-12.397-9.015-15.615zm-12.969 25.25-199.316 345.223c-1.347 2.326-4.904 1.376-4.904-1.319v-226.048c0-4.517-2.414-8.695-6.33-10.963l-195.7577-113.019c-2.3263-1.347-1.3764-4.905 1.3182-4.905h398.6305c5.661 0 9.199 6.136 6.368 11.041h-.009z"></path></g></svg>
+<img width="60" src="https://img.utdstc.com/icon/a2c/de1/a2cde158af82ba714c9c50acfb13b930312e231596805f4a1a9d7ec6d8059dba:200" />
 <br><br>
-<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=DC2626" /><br>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=DC2626" /><br>
 <sub><b>AI-first code editor</b></sub>
 </td>
 <td align="center" width="33%">
