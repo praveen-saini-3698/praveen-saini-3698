@@ -1,273 +1,132 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=200&section=header&text=Praveen%20Saini&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<!-- Hero Header with Animated Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=220&section=header&text=Praveen%20Saini&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Cyber%20Security%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=700&lines=Cyber+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;6.4%2B+Years+Experience+%E2%9A%A1;React+%7C+Spring+Boot+%7C+LDAP+Expert;AI-Powered+Development+%F0%9F%A4%96)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
----
-
-### 🚀 Building Secure, Scalable Systems @ Walmart Global Tech
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/praveen-kumar-saini-b30308161)
-[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/mr.strange.the.technical.guy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:myidpraveen90@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](#)
-
-![Profile Views](https://komarev.com/ghpvc/?username=praveen-saini-3698&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="right">
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-
-```javascript
-const praveen = {
-  🏢 company: "Walmart Global Tech",
-  💼 role: "Cyber Security Engineer",
-  📍 location: "Bengaluru, India 🇮🇳",
-  ⚡ experience: "6.4+ years",
-  🎯 specialization: [
-    "Cyber Security & Identity Management",
-    "Full Stack Development", 
-    "LDAP & Active Directory",
-    "Enterprise Applications",
-    "AI-Assisted Development"
-  ],
-  🏆 achievements: {
-    awards: 5,
-    badges: 11,
-    companies: 4,
-    projects: "7+"
-  },
-  💡 motto: "Building the future with AI-powered development"
-};
-```
-
-<br clear="right"/>
-
----
-
-## 🎯 Current Focus & AI Tools
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
-<b>🤖 AI Development</b><br>
-<sub>Next-generation coding</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
-<b>🔐 Cyber Security</b><br>
-<sub>Enterprise security solutions</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-<b>⚛️ React Ecosystem</b><br>
-<sub>Modern web applications</sub>
-</td>
-</tr>
-</table>
+<!-- Dynamic Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=900&lines=Cyber+Security+Engineer+at+Walmart+Global+Tech;Full+Stack+Developer+%7C+6.4%2B+Years+Experience;React+%E2%9A%9B%EF%B8%8F+Spring+Boot+%E2%9A%99%EF%B8%8F+LDAP+Expert;AI-Powered+Development+with+Cursor+%26+Copilot+%F0%9F%A4%96;Building+Secure%2C+Scalable+Enterprise+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <br>
 
-### 🛠️ Currently Working With
+<!-- Badges Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🛡️_Cyber_Security-Expert-DC2626?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚛️_React_19-Developer-61DAFB?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🔐_LDAP_%26_AD-Specialist-FFA700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🤖_AI--Powered-Coding-8B5CF6?style=for-the-badge&labelColor=000000" />
+</p>
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=react" width="50" /><br>
-<b>React 19</b><br>
-<sub>Latest features</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=spring" width="50" /><br>
-<b>Spring Boot</b><br>
-<sub>Enterprise backend</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=docker" width="50" /><br>
-<b>Docker</b><br>
-<sub>Containerization</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="50" /><br>
-<b>Kubernetes</b><br>
-<sub>Orchestration</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=azure" width="50" /><br>
-<b>Azure</b><br>
-<sub>Cloud platform</sub>
-</td>
-</tr>
-</table>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<br>
+<!-- Social & Profile Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-kumar-saini-b30308161">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/mr.strange.the.technical.guy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:myidpraveen90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=praveen-saini-3698&color=dc2626&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+</p>
 
-### 🤖 AI-Powered Development Tools
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/WindSurf_IDE-00ADD8?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" /><br>
-<sub>Next-gen AI coding assistant</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=DC2626" /><br>
-<sub>AI-first code editor</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" /><br>
-<sub>AI pair programmer</sub>
-</td>
-</tr>
-</table>
+<!-- Company Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏢_Currently_@-Walmart_Global_Tech-DC2626?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📍-Bengaluru,_India-FFA700?style=for-the-badge&labelColor=000000" />
+</p>
 
 </div>
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,nodejs,spring,java,python,fastapi,php,laravel,nestjs,mysql,mongodb,postgres,docker,kubernetes,azure,aws,git,vscode&perline=12" />
-
-### 🔐 Security & Identity Management
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-DC2626?style=for-the-badge&logo=openldap&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SSO](https://img.shields.io/badge/SSO-FFA700?style=for-the-badge&logo=auth0&logoColor=white)
-
-</div>
-
----
-
-## 💼 Professional Journey
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-
-### 🛡️ Career Progression - 6.4 Years Journey
-
 <br>
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img width="48" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" /><br>
-<b>6.4+</b><br>
-<sub>Years Exp</sub>
-</td>
-<td align="center" width="20%">
-<img width="48" src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94d1c46e.png" /><br>
-<b>30+</b><br>
-<sub>Technologies</sub>
-</td>
-<td align="center" width="20%">
-<img width="48" src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d4b884e.png" /><br>
-<b>5</b><br>
-<sub>Awards Won</sub>
-</td>
-<td align="center" width="20%">
-<img width="48" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf03-bf30-4caa-a087-125d61ab35d6.png" /><br>
-<b>11</b><br>
-<sub>Badges Earned</sub>
-</td>
-<td align="center" width="20%">
-<img width="48" src="https://user-images.githubusercontent.com/74038190/216122003-15d48f38-ad4c-4daa-a554-493422c3c808.png" /><br>
-<b>4</b><br>
-<sub>Companies</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📍 Career Timeline
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2019--2022-Synoriq-8B5CF6?style=for-the-badge&labelColor=000000" /><br>
-<b>Sr. Software Engineer</b><br>
-<sub>Cloud • Mobile • Web Technologies</sub><br>
-<sub>⏱️ <b>3 years</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2022--2023-Mirabel-06B6D4?style=for-the-badge&labelColor=000000" /><br>
-<b>Software Engineer</b><br>
-<sub>Product Development & Architecture</sub><br>
-<sub>⏱️ <b>10 months</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2023-Ambula-10B981?style=for-the-badge&labelColor=000000" /><br>
-<b>Sr. Software Engineer</b><br>
-<sub>Contract • Web & Mobile Apps</sub><br>
-<sub>⏱️ <b>5 months</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2023--Present-Walmart-DC2626?style=for-the-badge&labelColor=000000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAbwAAAG8B8aLcQwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEsSURBVCiRY/hPADAxMDAwMDIyMjAwMDAwMDL8/w8E/xkYGBgY/jMwMPz/z8DAwMDw/z8DAwPD//8M/xkYGP7/Z2D4//8/AwMDw///DAz//zMw/P/PwPD/PwPD//8MDP//MzD8/8/A8P8/A8P//wwM//8zMPz/z8Dw/z8Dw///DAz//zMw/P/PwPD/PwPD//8MDP//MzD8/8/A8P8/A8P//wwM//8zMPz/z8Dw/z8Dw///DP+ZGBj+MzEwMPxnYmBgYGJgYPj/n4GBgeE/EwMDA8N/JgYGBgYmBgYGhv9MDAwMDEwMDAwM/5kYGBgY/jMxMDAw/GdiYGBg+M/EwMDAwPCfiYGBgYGJgYHhPxMDAwMDEwMDAwPDfyYGBgaG/0wMDAwM/5kYGBgY/jMxMDAw/GdiYGBgYPjPxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwADAwMAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAQOxVvE7tVE0AAAAASUVORK5CYII=" /><br>
-<b>Cyber Security Engineer</b><br>
-<sub>🏆 5 Awards • 🎖️ 11 Badges</sub><br>
-<sub>⏱️ <b>1.6+ years</b></sub>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
----
-
-## 📊 GitHub Statistics
+<!-- About Me Section - Full Width -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=praveen-saini-3698&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600">
 
 <br><br>
 
+<!-- Professional Card -->
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=praveen-saini-3698&show_icons=true&theme=transparent&hide_border=true&title_color=DC2626&icon_color=FFA700&text_color=FFFFFF&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true" />
-
-</td>
-<td width="50%">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-saini-3698&theme=transparent&hide_border=true&stroke=DC2626&ring=DC2626&fire=FFA700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFA700&sideLabels=FFA700&dates=FFFFFF&background=0D1117" />
+```javascript
+const praveen = {
+    💼 role: "Cyber Security Engineer",
+    🏢 company: "Walmart Global Tech",
+    📍 location: "Bengaluru, India 🇮🇳",
+    ⚡ experience: "6.4+ years",
+    
+    🎯 specialization: [
+        "Cyber Security & Identity Management",
+        "Full Stack Development (React + Spring Boot)",
+        "LDAP & Active Directory Expert",
+        "Enterprise Application Architecture",
+        "AI-Powered Development"
+    ],
+    
+    🤖 aiTools: ["WindSurf IDE", "Cursor AI", "GitHub Copilot"],
+    
+    🏆 achievements: {
+        awards: 5,
+        recognitionBadges: 11,
+        companiesWorked: 4,
+        techStack: "30+ technologies"
+    },
+    
+    🚀 currentMission: "Building secure, scalable systems with AI assistance",
+    
+    💡 motto: "Innovation through technology and security"
+};
+```
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-saini-3698&bg_color=0D1117&color=FFFFFF&line=DC2626&point=FFA700&area=true&hide_border=true&custom_title=Contribution%20Graph&theme=github-dark" />
-
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen-saini-3698&theme=dracula" />
-
-<br>
-
+<!-- Key Highlights with Shields -->
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-saini-3698&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&langs_count=8" />
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/⏱️-6.4+-DC2626?style=for-the-badge&labelColor=000000&logo=clockify&logoColor=DC2626" /><br>
+<br>
+<sub><b>Years of Experience</b></sub>
 </td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveen-saini-3698&theme=dracula" />
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/🛠️-30+-FFA700?style=for-the-badge&labelColor=000000&logo=stack-overflow&logoColor=FFA700" /><br>
+<br>
+<sub><b>Technologies Mastered</b></sub>
+</td>
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/🏆-5-FFD700?style=for-the-badge&labelColor=000000&logo=affirm&logoColor=FFD700" /><br>
+<br>
+<sub><b>Excellence Awards</b></sub>
+</td>
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/🎖️-11-8B5CF6?style=for-the-badge&labelColor=000000&logo=awesomelists&logoColor=8B5CF6" /><br>
+<br>
+<sub><b>Recognition Badges</b></sub>
+</td>
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/🏢-4-06B6D4?style=for-the-badge&labelColor=000000&logo=office&logoColor=06B6D4" /><br>
+<br>
+<sub><b>Companies Worked</b></sub>
 </td>
 </tr>
 </table>
@@ -276,132 +135,453 @@ const praveen = {
 
 ---
 
-## 🏆 Achievements & Recognition
+<!-- Current Focus Section -->
+## 🎯 What I'm Focused On
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120"><br>
+<br>
+<img src="https://img.shields.io/badge/⚛️_React_Ecosystem-61DAFB?style=for-the-badge&labelColor=000000&logo=react&logoColor=61DAFB" /><br>
+<sub>Modern web applications with React 19</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp4ajBzc3M0eG9sZGdxa3UyNGZnbjk5MnFzaHpxN2xzczlleHV6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2i7jspnRBYgg6v4Oki/giphy.gif" width="120"><br>
+<br>
+<img src="https://img.shields.io/badge/🛡️_Cyber_Security-DC2626?style=for-the-badge&labelColor=000000&logo=security&logoColor=DC2626" /><br>
+<sub>Enterprise security & identity solutions</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120"><br>
+<br>
+<img src="https://img.shields.io/badge/🤖_AI_Development-8B5CF6?style=for-the-badge&labelColor=000000&logo=openai&logoColor=8B5CF6" /><br>
+<sub>Next-gen AI-powered coding</sub>
+</td>
+</tr>
+</table>
 
-### 🎖️ **Walmart Global Tech Excellence** 🎖️
+<br>
+
+<!-- Currently Working With -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+### 🛠️ Tech Stack in Action
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="60" height="60" /><br>
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
+<sub>Latest features & patterns</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="60" height="60" /><br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /><br>
+<sub>Enterprise-grade backend</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" /><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br>
+<sub>Type-safe development</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="60" height="60" /><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+<sub>Containerization expert</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60" /><br>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br>
+<sub>Cloud orchestration</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+### 🤖 AI-Powered Development Arsenal
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img width="90" src="https://windsurf.com/logo/windsurf-white-wordmark.svg" />
+<br><br>
+<img src="https://img.shields.io/badge/WindSurf_IDE-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000" /><br>
+<sub><b>Next-gen AI assistant</b></sub>
+</td>
+<td align="center" width="33%">
+<svg fill="none" height="40" viewBox="0 0 545 545" width="40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill="currentColor"><path d="m466.383 137.073-206.469-119.2034c-6.63-3.8287-14.811-3.8287-21.441 0l-206.4586 119.2034c-5.5734 3.218-9.0144 9.169-9.0144 15.615v240.375c0 6.436 3.441 12.397 9.0144 15.615l206.4686 119.203c6.63 3.829 14.811 3.829 21.441 0l206.468-119.203c5.574-3.218 9.015-9.17 9.015-15.615v-240.375c0-6.436-3.441-12.397-9.015-15.615zm-12.969 25.25-199.316 345.223c-1.347 2.326-4.904 1.376-4.904-1.319v-226.048c0-4.517-2.414-8.695-6.33-10.963l-195.7577-113.019c-2.3263-1.347-1.3764-4.905 1.3182-4.905h398.6305c5.661 0 9.199 6.136 6.368 11.041h-.009z"></path></g></svg>
+<br><br>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=DC2626" /><br>
+<sub><b>AI-first code editor</b></sub>
+</td>
+<td align="center" width="33%">
+<img width="60" src="https://c.tenor.com/A15H8E1VUh8AAAAC/tenor.gif" />
+<br><br>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" /><br>
+<sub><b>AI pair programmer</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Complete Tech Stack Grid -->
+## 💻 Complete Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,java,python,fastapi,php,laravel,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,docker,kubernetes,azure,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,linux&theme=dark" />
+
+<br><br>
+
+### 🔐 Security & Identity Specialization
+
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/LDAP-DC2626?style=for-the-badge&logo=openldap&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/SSO-FFA700?style=for-the-badge&logo=auth0&logoColor=white&labelColor=000000" />
+
+</div>
+
+---
+
+<!-- Career Journey -->
+## 💼 Career Journey
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+<br>
+
+<!-- Stats Overview -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⏱️-6.4+-DC2626?style=for-the-badge&labelColor=1a1a1a" /><br>
+<b>Years Experience</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🛠️-30+-FFA700?style=for-the-badge&labelColor=1a1a1a" /><br>
+<b>Technologies</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🏆-5-FFD700?style=for-the-badge&labelColor=1a1a1a" /><br>
+<b>Awards Won</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎖️-11-8B5CF6?style=for-the-badge&labelColor=1a1a1a" /><br>
+<b>Recognition Badges</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🏢-4-06B6D4?style=for-the-badge&labelColor=1a1a1a" /><br>
+<b>Companies</b>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Timeline Cards -->
+### 🗓️ Professional Timeline
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/2019--2022-4B019A?style=for-the-badge&labelColor=000000" /><br>
+<br>
+<img height="70" src="https://raw.githubusercontent.com/praveen-saini-3698/praveen-saini-3698/main/synoriq.webp" alt="Synoriq" /><br>
+<br>
+<b>Synoriq Pvt Ltd</b><br>
+<sub>Sr. Software Engineer</sub><br>
+<sub>Cloud • Mobile • Web</sub><br>
+<br>
+<img src="https://img.shields.io/badge/Duration-3_years-8B5CF6?style=flat-square" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/2022--2023-06B6D4?style=for-the-badge&labelColor=000000" /><br>
+<br>
+<img height="70" src="https://raw.githubusercontent.com/praveen-saini-3698/praveen-saini-3698/main/mirabel.png" alt="Mirabel" /><br>
+<br>
+<b>Mirabel Technologies</b><br>
+<sub>Software Engineer</sub><br>
+<sub>Product Development</sub><br>
+<br>
+<img src="https://img.shields.io/badge/Duration-10_months-06B6D4?style=flat-square" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/2023-10B981?style=for-the-badge&labelColor=000000" /><br>
+<br>
+<img height="70" src="https://raw.githubusercontent.com/praveen-saini-3698/praveen-saini-3698/main/ambula.png" alt="Ambula" /><br>
+<br>
+<b>Ambula</b><br>
+<sub>Sr. Software Engineer</sub><br>
+<sub>Contract • Web & Mobile</sub><br>
+<br>
+<img src="https://img.shields.io/badge/Duration-5_months-10B981?style=flat-square" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/2023--Present-DC2626?style=for-the-badge&labelColor=000000" /><br>
+<br>
+<img height="70" src="https://raw.githubusercontent.com/praveen-saini-3698/praveen-saini-3698/main/walmart.png" alt="Walmart" /><br>
+<br>
+<b>Walmart Global Tech</b><br>
+<sub>Cyber Security Engineer</sub><br>
+<sub>🏆 5 Awards • 🎖️ 11 Badges</sub><br>
+<br>
+<img src="https://img.shields.io/badge/Duration-1.6+_years-DC2626?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+</div>
+
+---
+
+<!-- Achievements Section -->
+## 🏆 Hall of Fame
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70" />
+
+<br>
+
+### 🎖️ Walmart Global Tech Excellence
+
+<br>
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/🏅_Excellence-Award-FFD700?style=for-the-badge&labelColor=000000" /><br>
-<b>Excellence Award</b><br>
+<img height="80" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" /><br>
+<br>
+<img src="https://img.shields.io/badge/🏅_EXCELLENCE_AWARD-FFD700?style=for-the-badge&labelColor=000000" /><br>
+<br>
+<b>Excellence Award 2024</b><br>
 <sub>Best Performance & Early Product Delivery</sub><br>
 <sub>📅 December 2024</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/⭐_Bravo-Awards_×4-DC2626?style=for-the-badge&labelColor=000000" /><br>
-<b>Bravo Awards × 4</b><br>
+<img width="60" style="margin-top:2rem" src="https://cdn-icons-png.flaticon.com/512/16779/16779410.png" /><br>
+<br>
+<img src="https://img.shields.io/badge/⭐_BRAVO_AWARDS_×4-DC2626?style=for-the-badge&labelColor=000000" /><br>
+<br>
+<b>Bravo Awards (4 Times)</b><br>
 <sub>Outstanding Performance & Engineering Excellence</sub><br>
-<sub>📅 2023 - 2025</sub>
+<sub>📅 Oct 2023 • May 2024 • Jan 2025 • Aug 2025</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-### 🎯 Recognition Badges (11 Total)
+### 🎯 Recognition Badges Collection
 
+<p align="center">
 <img src="https://img.shields.io/badge/⚡_Impact_Driver-×4-8B5CF6?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🤝_Collaborator-×3-06B6D4?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/💡_Inspirer-×1-F97316?style=for-the-badge&labelColor=000000" />
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/📚_Learning_Champion-×1-10B981?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/⚡_Energizer-×1-FBBF24?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🏢_Great_Place_to_Work-2024-DC2626?style=for-the-badge&labelColor=000000" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</p>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- GitHub Stats Section -->
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,nodejs,spring,java,python,fastapi,php,laravel,nestjs,mysql,mongodb,postgres,docker,kubernetes,azure,aws,git,vscode&perline=12" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <br><br>
 
-### 🔐 Security & Identity Management Expertise
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-DC2626?style=for-the-badge&logo=openldap&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SSO](https://img.shields.io/badge/SSO-FFA700?style=for-the-badge&logo=auth0&logoColor=white)
+<!-- Trophy Showcase -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=praveen-saini-3698&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)
+
+<br><br>
+
+<!-- Main Stats Cards -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-saini-3698&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=FFA700&text_color=FFFFFF&include_all_commits=true&count_private=true)
+
+</td>
+<td width="50%" align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveen-saini-3698&theme=radical&hide_border=true&background=0D1117&stroke=DC2626&ring=DC2626&fire=FFA700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFA700&sideLabels=FFA700&dates=FFFFFF)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-saini-3698&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&langs_count=8)
+
+<br><br>
+
+<!-- Contribution Activity Graph -->
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=praveen-saini-3698&bg_color=0d1117&color=ffffff&line=dc2626&point=ffa700&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity&area_color=dc2626&height=280)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
 
 ---
 
+<!-- Contact Section -->
 ## 💬 Let's Connect & Collaborate
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> **Available for exciting opportunities!** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" /> 
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40" />
 
-<br><br>
+### 🚀 Ready to Build Something Extraordinary?
 
+<br>
+
+<!-- Contact Cards -->
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="48" /><br>
-<b>📧 Email</b><br>
-<a href="mailto:myidpraveen90@gmail.com">myidpraveen90@gmail.com</a>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" /><br>
+<br>
+<img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /><br>
+<br>
+<a href="mailto:myidpraveen90@gmail.com"><b>myidpraveen90@gmail.com</b></a>
 </td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48" /><br>
-<b>📱 Phone</b><br>
-<a href="tel:+916378802811">+91 6378802811</a>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="48" /><br>
-<b>📍 Location</b><br>
-Bengaluru, Karnataka, India
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" /><br>
+<br>
+<img src="https://img.shields.io/badge/📍_Location-FFA700?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" /><br>
+<br>
+<b>Bengaluru, Karnataka, India 🇮🇳</b>
 </td>
 </tr>
 </table>
 
 <br>
 
-### 🌟 Open to:
-<img src="https://img.shields.io/badge/Full--time_Roles-DC2626?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Contract_Projects-FFA700?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Consulting-8B5CF6?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Technical_Leadership-06B6D4?style=for-the-badge&labelColor=000000" />
+<!-- Availability Status -->
+### 💼 Open For
+
+<p align="center">
+<img src="https://img.shields.io/badge/💼_Full--time_Roles-Available-DC2626?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📝_Contract_Projects-Available-FFA700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🎯_Consulting-Available-8B5CF6?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/👔_Technical_Leadership-Available-06B6D4?style=for-the-badge&labelColor=000000" />
+</p>
 
 </div>
 
 ---
 
+<!-- Fun Fact -->
 ## ⚡ Fun Fact
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="250">
 
-### 🦸‍♂️ Big fan of Marvel Comics! 🦸‍♂️
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=500&lines=Iron+Man+%E2%9A%A1+Innovation;Black+Panther+%F0%9F%92%8E+Technology;Captain+America+%F0%9F%9B%A1%EF%B8%8F+Leadership" />
+### 🦸‍♂️ Big Fan of Marvel Comics! 🦸‍♂️
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=600&lines=Iron+Man+%E2%9A%A1+Innovation+%26+Technology;Black+Panther+%F0%9F%92%8E+Advanced+Tech;Captain+America+%F0%9F%9B%A1%EF%B8%8F+Leadership+%26+Dedication" />
 
 </div>
 
 ---
 
+<!-- Footer CTA -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### 🌟 Thanks for visiting! Let's build something extraordinary together! 🚀
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer&animation=twinkling" />
+<br>
 
-**© 2025 Praveen Saini • All Rights Reserved**
+## 🌟 Let's Build Something Amazing Together! 🌟
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+<br>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/praveen-kumar-saini-b30308161">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:myidpraveen90@gmail.com">
+<img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.instagram.com/mr.strange.the.technical.guy">
+<img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+### ⭐ If you find my work interesting, consider giving a star! ⭐
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br>
+
+<!-- Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20through%20secure%2C%20scalable%20systems&author=Praveen%20Saini&border=DC2626&animation=grow_out_in" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Final Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=150&section=footer&animation=twinkling" />
+
+<p align="center">
+<b>© 2025 Praveen Saini • All Rights Reserved</b>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 </div>
+
